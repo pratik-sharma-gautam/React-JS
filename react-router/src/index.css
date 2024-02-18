@@ -1,0 +1,14 @@
+nav ul{
+  display: flex;
+  gap: 20px;
+}
+ul li{
+  text-decoration: none;
+  list-style-type: none;
+}
+.blue{
+  color: blue;
+}
+.red{
+  color: red;
+}
